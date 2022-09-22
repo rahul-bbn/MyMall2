@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107761409613",
+    "project_id": "shopping-mall-67402",
+    "storage_bucket": "shopping-mall-67402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107761409613:android:a9b4d20b272a916bc04604",
+        "android_client_info": {
+          "package_name": "rahul.cyntech.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107761409613-4fm8ssf22m5crlfgttr1mlso5uvgpe1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFZOQmQLI77fMCm9ZmrfSn_BasUAcP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107761409613-4fm8ssf22m5crlfgttr1mlso5uvgpe1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
